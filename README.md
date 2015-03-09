@@ -1,1 +1,1 @@
-# Project-KPPL
+Sistem Informasi Etalase Toko Fashion di Surabaya merupakan sebuah aplikasi etalase berbasis web dimana akan menampilkan informasi mengenai toko pakaian terkemuka di wilayah Surabaya. Namun, berbeda dengan aplikasi pada umumnya, Sistem Informasi Etalase Toko Pakaian Wanita di Surabaya hanya berisikan toko-toko yang telah terseleksi berdasarkan customer satisfaction. Sehingga dengan adanya proses tersebut toko-toko pada Sistem Informasi Etalase Toko Pakaian di Surabaya hanya berisikan toko-toko dengan full recomendation
