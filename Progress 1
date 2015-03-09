@@ -6,35 +6,45 @@
 </head>
 
 <body>
-<table width="1037" height="1854" border="1" align="center">
+<table width="1218" height="1854" border="1" align="center">
   <tr>
-    <td height="356">&nbsp;</td>
+    <td width="1208" height="356"><img src="img/img6.png" width="1212" height="495"  alt=""/></td>
   </tr>
   <tr>
-    <td height="492"><table width="506" border="1" align="right">
+    <td height="492"><table width="1206" height="590" border="1" align="center">
       <tr>
-        <td width="496" height="218">&nbsp;</td>
-      </tr>
-      <tr>
-        <td height="264">&nbsp;</td>
+        <td width="665" height="585">&nbsp;</td>
+        <td width="525"><table width="524" height="581" border="1">
+          <tr>
+            <td width="529" height="323"><img src="img/img5.png" width="519" height="320"  alt=""/></td>
+          </tr>
+          <tr>
+            <td height="249"><img src="img/img4.png" width="519" height="247"  alt=""/></td>
+          </tr>
+        </table></td>
       </tr>
     </table></td>
   </tr>
   <tr>
-    <td height="420"><table width="526" border="1">
+    <td height="420"><table width="1208" height="635" border="1" align="center">
       <tr>
-        <td height="106">&nbsp;</td>
-      </tr>
-      <tr>
-        <td height="166"><table width="515" height="169" border="1" align="center">
+        <td width="672" height="629"><table width="674" height="625" border="1">
           <tr>
-            <td width="260" height="163">&nbsp;</td>
-            <td width="239">&nbsp;</td>
+            <td width="664" height="54">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="222"><table width="664" height="217" border="1">
+              <tr>
+                <td width="316" height="211">&nbsp;</td>
+                <td width="332">&nbsp;</td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td height="339">&nbsp;</td>
           </tr>
         </table></td>
-      </tr>
-      <tr>
-        <td height="194">&nbsp;</td>
+        <td width="520"><img src="img/img7.jpg" width="524" height="625"  alt=""/></td>
       </tr>
     </table></td>
   </tr>
